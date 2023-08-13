@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HealOnTel</string>
+    <string name="title">Membership Form</string>
+    <string name="your_prompt_text">Select an item</string>
+    <string-array name="your_array_resource">
+
+        <item>FAMILY DOCTORS</item>
+        <item>DIETICIANS</item>
+        <item>DENTISTS</item>
+        <item>CARDIOLOGIST</item>
+        <item>SERGEONS</item>
+    </string-array>
+
+</resources>

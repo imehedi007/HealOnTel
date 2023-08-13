@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1054788083297",
+    "firebase_url": "https://healontel-default-rtdb.firebaseio.com",
+    "project_id": "healontel",
+    "storage_bucket": "healontel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054788083297:android:a9fe06588597984dd41420",
+        "android_client_info": {
+          "package_name": "com.example.droncall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054788083297-4eirka3jre4i1gqjmt6psn6c6e1nlvp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7WcQsy36rVmZWflrh740aecQcvqmyCQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054788083297-4eirka3jre4i1gqjmt6psn6c6e1nlvp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054788083297:android:e21b91f0e5ec8e7cd41420",
+        "android_client_info": {
+          "package_name": "com.example.healontel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054788083297-4eirka3jre4i1gqjmt6psn6c6e1nlvp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7WcQsy36rVmZWflrh740aecQcvqmyCQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054788083297-4eirka3jre4i1gqjmt6psn6c6e1nlvp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
